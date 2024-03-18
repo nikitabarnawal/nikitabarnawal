@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Nikita! 👋
 
-<!--
-**nikitabarnawal/nikitabarnawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am a Frontend Developer
 
-Here are some ideas to get you started:
+- 🔥 Mostly working with Reactjs, Redux, Context
+- ❤️‍🔥 I love building products from scratch 
+- 🤍 I am in love with Reactjs currently
+- 🌱 I’m currently learning NextJs
+- 👯 Connect with me for any Frontend opportunities
+- 💬 Ask me about Javascript, ReactJs
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/nikitabarnwal/)
+- 😄 Pronouns: Nikita
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
